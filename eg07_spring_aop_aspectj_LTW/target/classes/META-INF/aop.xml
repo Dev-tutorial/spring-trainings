@@ -1,0 +1,13 @@
+<!DOCTYPE aspectj PUBLIC
+        "-//AspectJ//DTD//EN" "http://www.eclipse.org/aspectj/dtd/aspectj.dtd">
+<aspectj>
+
+	<weaver>
+		<include within="com.dev.springaop..*" />
+	</weaver>
+
+	<aspects>
+		<aspect name="com.dev.springaop.aspect.TracingAspect" />
+	</aspects>
+
+</aspectj>
