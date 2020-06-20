@@ -1,0 +1,14 @@
+-encoding
+UTF-8
+-outxml
+-source
+1.6
+-target
+1.6
+-classpath
+C:\Users\Dev\.m2\repository\org\slf4j\slf4j-api\1.7.5\slf4j-api-1.7.5.jar;C:\Users\Dev\.m2\repository\ch\qos\logback\logback-classic\1.0.13\logback-classic-1.0.13.jar;C:\Users\Dev\.m2\repository\org\aspectj\aspectjrt\1.8.7\aspectjrt-1.8.7.jar;C:\Users\Dev\.m2\repository\org\aspectj\aspectjweaver\1.8.7\aspectjweaver-1.8.7.jar;C:\Users\Dev\.m2\repository\junit\junit\4.11\junit-4.11.jar;E:\developers_space\eclipse_workspace\Training\eg07_spring_aop_aspectj_error_declaration\target\classes
+-d
+E:\developers_space\eclipse_workspace\Training\eg07_spring_aop_aspectj_error_declaration\target\classes
+E:\developers_space\eclipse_workspace\Training\eg07_spring_aop_aspectj_error_declaration\src\main\java\com\dev\springaop\aspect\ErrorWarningAspect.java
+E:\developers_space\eclipse_workspace\Training\eg07_spring_aop_aspectj_error_declaration\src\main\java\com\dev\springaop\repository\DemoRepository.java
+E:\developers_space\eclipse_workspace\Training\eg07_spring_aop_aspectj_error_declaration\src\main\java\com\dev\springaop\service\DemoService.java
