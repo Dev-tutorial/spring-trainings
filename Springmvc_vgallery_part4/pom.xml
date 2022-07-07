@@ -41,7 +41,7 @@
   	<spring.version>4.2.4.RELEASE</spring.version>
   	<servlet.version>2.5</servlet.version>
   	<jstl.version>1.2</jstl.version>
-  	<validator.version>4.2.0.Final</validator.version>
+  	<validator.version>6.0.23.Final</validator.version>
   </properties>
   <build>
     <finalName>Springmvc_vgallery_part4</finalName>
